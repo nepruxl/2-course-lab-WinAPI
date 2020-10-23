@@ -1,1 +1,1 @@
-# 4-course-lab-WinAPI
+# 2-course-lab-WinAPI
